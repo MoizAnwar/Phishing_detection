@@ -1,6 +1,8 @@
 # Phishing_detection
 To access the backend code open  the file notebook.ipynb. Model training is done in this file.
+
 To Access front end code open app.py .
+
 Then Templates code of  front end are in Templates folder .
 
 The static file has all static elements, CSS and Java Script Files used in the code.
